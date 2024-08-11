@@ -6,9 +6,7 @@
 ###### 인원: 5명
 ###### 기간: 24.04.08~24.05.30
 
-<hr></hr>
-
-### ⚙️Skills & Tools
+## ⚙️Skills & Tools
 Backend: <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></t>
 </br>
 Frontend: <img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -46,4 +44,31 @@ Frontend: <img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&s
  ## 🌏 IA(Information Architecture)
  <img width="100%" alt="image" src="https://github.com/user-attachments/assets/e98136fb-81cb-46ee-858c-9b71f3434e52">
 
- 
+## 🖥️ 기능
+#### 사용자
+1. 일반 로그인
+2. 카카오 로그인
+3. 회원가입
+4. 아이디 비밀번호 찾기
+5. 음식점
+6. 숙박
+7. 문화유산
+8. 공원
+9. 번역시스템(GPT 3.5 turbo)
+10. 검색
+
+#### 관리자
+1. 회원관리
+
+## 🎨 프론트 디자인
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/7f2a34aa-28cd-4726-b73d-c3fc4c0387a3">
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/4f09b056-927e-4555-9c4a-03be1b067690">
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/c565c416-f1e8-4e3f-9dd0-b2453c87010d">
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/a56ebb6f-9427-4eca-b803-1d1def0823f2">
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/30140bf6-8696-45a1-82a6-5fa41ea3e030">
+
+## 🤑활용방안&기대효과
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/4ceaa3dc-21d0-4408-b17c-f7b965e169ee">
+
+## 🚀 트러블슈팅
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/b1c4fc60-9dd9-40b6-b130-d689a9539f97">
