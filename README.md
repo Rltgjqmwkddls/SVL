@@ -44,4 +44,6 @@ Frontend: <img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&s
   - IA 제작
 
  ## 🌏 IA(Information Architecture)
- <img width="100%" alt="image" ![image](https://github.com/user-attachments/assets/e98136fb-81cb-46ee-858c-9b71f3434e52)>
+ <img width="100%" alt="image" src="https://github.com/user-attachments/assets/e98136fb-81cb-46ee-858c-9b71f3434e52">
+
+ 
