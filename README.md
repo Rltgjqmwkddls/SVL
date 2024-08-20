@@ -3,8 +3,8 @@
 
 ##### 서울의 중심 중구를 바탕으로 카테고리 추천(feat. 번역 시스템)
 
-###### 인원: 5명
-###### 기간: 24.04.08~24.05.30
+##### 인원: 5명
+##### 기간: 24.04.08~24.05.30
 
 ## ⚙️Skills & Tools
 Backend: <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></t>
