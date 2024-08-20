@@ -1,5 +1,5 @@
 # 🗺️서울 다국어 지도
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/98604cb9-dca0-4e49-bb4c-0c04dc330c90">
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/f94f0eee-29b3-415f-a618-3025894d2ae5">
 
 ##### 서울의 중심 중구를 바탕으로 카테고리 추천(feat. 번역 시스템)
 
