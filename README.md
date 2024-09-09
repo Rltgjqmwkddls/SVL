@@ -26,7 +26,7 @@ Frontend: <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&l
 
 
 ## 📜활용한 공공데이터 
-1. [서울관광재단_다국어식당 기본정보](https://www.localdata.go.kr/data/15097002/fileData.do?recommendDataYn=Y)
+1. [서울관광재단_다국어식당 기본정보](https://www.data.go.kr/data/15097002/fileData.do)
 2. [외국인관광 도시민박업](https://www.localdata.go.kr/data/dataView.do)
 3. [서울시 중구 역사문화자원 집필대상목록 현황](https://data.seoul.go.kr/dataList/OA-13366/S/1/datasetView.do)
 4. [서울시 주요 공원현황](https://data.seoul.go.kr/dataList/OA-394/S/1/dataView.do)
